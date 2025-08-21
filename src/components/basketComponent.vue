@@ -114,10 +114,12 @@ onMounted(() => {
 });
 
 // Получение путей для изображений
-const getImageUrl = (id, color, imgnumber) => { 
-  const imgURL = `/src/assets/${id}/${color}-${imgnumber}.jpg`; 
-  return new URL(imgURL, import.meta.url).href; 
+const getImageUrl = (id, color, imgnumber) => {
+  // Путь относительно текущего файла компонента
+  const imgPath = new URL(`../assets/${id}/${color}-${imgnumber}.jpg`, import.meta.url);
+  return imgPath.href;
 };
+
 
 const addToHistory = async () => {
   if (!currentUser.value) {
