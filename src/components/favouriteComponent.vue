@@ -112,7 +112,7 @@ watch(
 
 // Получение путей для изображений
 const getImageUrl = (id, color, imgnumber) => {
-  const imgURL = `../assets/${id}/${color}-${imgnumber}.jpg`;
+  const imgURL = `/assets/${id}/${color}-${imgnumber}.jpg`;
   return new URL(imgURL, import.meta.url).href;
 };
 </script>
