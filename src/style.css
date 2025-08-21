@@ -1,0 +1,87 @@
+/* Base of css */
+
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&display=swap");
+html {
+  background: var(--main-bg);
+  color: var(--main-text);
+  font-family: "Jost";
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
+#app {
+  width: 100%;
+  max-width: 1920px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+:root {
+  /* main */
+  --main-bg: #fbfbfb;
+  --sub-bg: #e4e4e4;
+  --main-text: #000000;
+  --sub-text: #363636;
+  --main-pad: 52px;
+  /* header */
+  --header-height: 28px;
+
+  /* roster */
+  --card: #f2f2f2;
+}
+body.no-scroll {
+  overflow: hidden;
+}
+
+/* Reset CSS */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  line-height: 1.5;
+  text-rendering: optimizeSpeed;
+  -webkit-font-smoothing: antialiased;
+}
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+button {
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul,
+ol {
+  list-style: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}

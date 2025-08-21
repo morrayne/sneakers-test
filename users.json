@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "username": "red",
+    "pass": "1",
+    "history": [
+      [0, 1],
+      [0, 1, 2]
+    ]
+  },
+  {
+    "id": 1,
+    "username": "kirill",
+    "pass": "123456"
+  }
+]

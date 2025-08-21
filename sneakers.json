@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "gender": 0,
+    "brand": "NIKE",
+    "name": "Nike Air Force 1 Mid '07",
+    "colors": ["black"]
+  },
+  {
+    "id": 1,
+    "gender": 1,
+    "brand": "ADIDAS",
+    "name": "Adidas Forum Low",
+    "colors": ["beige"]
+  },
+  {
+    "id": 2,
+    "gender": 2,
+    "brand": "NIKE",
+    "name": "Nike Air Force 1 Shadow",
+    "colors": ["blue"]
+  },
+  {
+    "id": 3,
+    "gender": 0,
+    "brand": "NIKE",
+    "name": "Nike P-6000",
+    "colors": ["white", "black", "red", "blue"]
+  },
+  {
+    "id": 4,
+    "gender": 0,
+    "brand": "NEW BALANCE",
+    "name": "New balance 530",
+    "colors": ["white"]
+  },
+  {
+    "id": 5,
+    "gender": 2,
+    "brand": "VANS",
+    "name": "Vans Old Skool",
+    "colors": ["blue", "black", "yellow", "chess"]
+  },
+  {
+    "id": 6,
+    "gender": 0,
+    "brand": "VANS",
+    "name": "Vans Sk8-Hi",
+    "colors": ["blue", "black"]
+  },
+  {
+    "id": 7,
+    "gender": 1,
+    "brand": "NEW BALANCE",
+    "name": "New Balance 703",
+    "colors": ["white", "grey"]
+  },
+  {
+    "id": 8,
+    "gender": 0,
+    "brand": "ADIDAS",
+    "name": "Adidas Ozmillen",
+    "colors": ["beige", "grey", "white"]
+  },
+  {
+    "id": 9,
+    "gender": 0,
+    "brand": "PUMA",
+    "name": "Puma Inhale",
+    "colors": ["yellow", "blue"]
+  },
+  {
+    "id": 10,
+    "gender": 0,
+    "brand": "PUMA",
+    "name": "Puma RS-X Efekt Premium",
+    "colors": ["black", "grey"]
+  },
+  {
+    "id": 11,
+    "gender": 0,
+    "brand": "NIKE",
+    "name": "Nike Air Max 90",
+    "colors": ["white", "grey"]
+  }
+]

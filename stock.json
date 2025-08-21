@@ -1,0 +1,830 @@
+[
+  {
+    "uid": 0,
+    "id": 0,
+    "size": 40,
+    "color": "black",
+    "cost": 80,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 1,
+    "id": 0,
+    "size": 41,
+    "color": "black",
+    "cost": 80,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 2,
+    "id": 0,
+    "size": 42,
+    "color": "black",
+    "cost": 80,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 3,
+    "id": 0,
+    "size": 43,
+    "color": "black",
+    "cost": 80,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 4,
+    "id": 0,
+    "size": 44,
+    "color": "black",
+    "cost": 80,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 5,
+    "id": 1,
+    "size": 40,
+    "color": "beige",
+    "cost": 90,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 6,
+    "id": 1,
+    "size": 41,
+    "color": "beige",
+    "cost": 90,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 7,
+    "id": 1,
+    "size": 42,
+    "color": "beige",
+    "cost": 90,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 8,
+    "id": 1,
+    "size": 43,
+    "color": "beige",
+    "cost": 90,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 9,
+    "id": 1,
+    "size": 44,
+    "color": "beige",
+    "cost": 90,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 10,
+    "id": 2,
+    "size": 40,
+    "color": "blue",
+    "cost": 85,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 11,
+    "id": 2,
+    "size": 41,
+    "color": "blue",
+    "cost": 85,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 12,
+    "id": 2,
+    "size": 42,
+    "color": "blue",
+    "cost": 85,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 13,
+    "id": 2,
+    "size": 43,
+    "color": "blue",
+    "cost": 85,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 14,
+    "id": 2,
+    "size": 44,
+    "color": "blue",
+    "cost": 85,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 15,
+    "id": 3,
+    "size": 40,
+    "color": "white",
+    "cost": 120,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 16,
+    "id": 3,
+    "size": 41,
+    "color": "white",
+    "cost": 120,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 17,
+    "id": 3,
+    "size": 42,
+    "color": "white",
+    "cost": 120,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 18,
+    "id": 3,
+    "size": 43,
+    "color": "white",
+    "cost": 120,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 19,
+    "id": 3,
+    "size": 44,
+    "color": "white",
+    "cost": 120,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 20,
+    "id": 3,
+    "size": 40,
+    "color": "black",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 21,
+    "id": 3,
+    "size": 41,
+    "color": "black",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 22,
+    "id": 3,
+    "size": 42,
+    "color": "black",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 23,
+    "id": 3,
+    "size": 43,
+    "color": "black",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 24,
+    "id": 3,
+    "size": 44,
+    "color": "black",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 25,
+    "id": 3,
+    "size": 40,
+    "color": "red",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 26,
+    "id": 3,
+    "size": 41,
+    "color": "red",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 27,
+    "id": 3,
+    "size": 42,
+    "color": "red",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 28,
+    "id": 3,
+    "size": 43,
+    "color": "red",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 29,
+    "id": 3,
+    "size": 44,
+    "color": "red",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 30,
+    "id": 3,
+    "size": 40,
+    "color": "blue",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 31,
+    "id": 3,
+    "size": 41,
+    "color": "blue",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 32,
+    "id": 3,
+    "size": 42,
+    "color": "blue",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 33,
+    "id": 3,
+    "size": 43,
+    "color": "blue",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 34,
+    "id": 3,
+    "size": 44,
+    "color": "blue",
+    "cost": 132,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 35,
+    "id": 5,
+    "size": 40,
+    "color": "blue",
+    "cost": 95,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 36,
+    "id": 5,
+    "size": 41,
+    "color": "blue",
+    "cost": 95,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 37,
+    "id": 5,
+    "size": 42,
+    "color": "blue",
+    "cost": 95,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 38,
+    "id": 5,
+    "size": 43,
+    "color": "blue",
+    "cost": 95,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 39,
+    "id": 5,
+    "size": 44,
+    "color": "blue",
+    "cost": 95,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 40,
+    "id": 5,
+    "size": 40,
+    "color": "black",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 41,
+    "id": 5,
+    "size": 41,
+    "color": "black",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 42,
+    "id": 5,
+    "size": 42,
+    "color": "black",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 43,
+    "id": 5,
+    "size": 43,
+    "color": "black",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 44,
+    "id": 5,
+    "size": 44,
+    "color": "black",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 45,
+    "id": 5,
+    "size": 40,
+    "color": "yellow",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 46,
+    "id": 5,
+    "size": 41,
+    "color": "yellow",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 47,
+    "id": 5,
+    "size": 42,
+    "color": "yellow",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 48,
+    "id": 5,
+    "size": 43,
+    "color": "yellow",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 49,
+    "id": 5,
+    "size": 44,
+    "color": "yellow",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 50,
+    "id": 5,
+    "size": 40,
+    "color": "chess",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 51,
+    "id": 5,
+    "size": 41,
+    "color": "chess",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 52,
+    "id": 5,
+    "size": 42,
+    "color": "chess",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 53,
+    "id": 5,
+    "size": 43,
+    "color": "chess",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 54,
+    "id": 5,
+    "size": 44,
+    "color": "chess",
+    "cost": 105,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 55,
+    "id": 8,
+    "size": 40,
+    "color": "beige",
+    "cost": 110,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 56,
+    "id": 8,
+    "size": 41,
+    "color": "beige",
+    "cost": 110,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 57,
+    "id": 8,
+    "size": 42,
+    "color": "beige",
+    "cost": 110,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 58,
+    "id": 8,
+    "size": 43,
+    "color": "beige",
+    "cost": 110,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 59,
+    "id": 8,
+    "size": 44,
+    "color": "beige",
+    "cost": 110,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 60,
+    "id": 8,
+    "size": 40,
+    "color": "grey",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 61,
+    "id": 8,
+    "size": 41,
+    "color": "grey",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 62,
+    "id": 8,
+    "size": 42,
+    "color": "grey",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 63,
+    "id": 8,
+    "size": 43,
+    "color": "grey",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 64,
+    "id": 8,
+    "size": 44,
+    "color": "grey",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 65,
+    "id": 8,
+    "size": 40,
+    "color": "white",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 66,
+    "id": 8,
+    "size": 41,
+    "color": "white",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 67,
+    "id": 8,
+    "size": 42,
+    "color": "white",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 68,
+    "id": 8,
+    "size": 43,
+    "color": "white",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 69,
+    "id": 8,
+    "size": 44,
+    "color": "white",
+    "cost": 121,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 70,
+    "id": 10,
+    "size": 40,
+    "color": "black",
+    "cost": 130,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 71,
+    "id": 10,
+    "size": 41,
+    "color": "black",
+    "cost": 130,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 72,
+    "id": 10,
+    "size": 42,
+    "color": "black",
+    "cost": 130,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 73,
+    "id": 10,
+    "size": 43,
+    "color": "black",
+    "cost": 130,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 74,
+    "id": 10,
+    "size": 44,
+    "color": "black",
+    "cost": 130,
+    "sale": false,
+    "amount": 10
+  },
+
+  {
+    "uid": 75,
+    "id": 10,
+    "size": 40,
+    "color": "grey",
+    "cost": 143,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 76,
+    "id": 10,
+    "size": 41,
+    "color": "grey",
+    "cost": 143,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 77,
+    "id": 10,
+    "size": 42,
+    "color": "grey",
+    "cost": 143,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 78,
+    "id": 10,
+    "size": 43,
+    "color": "grey",
+    "cost": 143,
+    "sale": false,
+    "amount": 10
+  },
+  {
+    "uid": 79,
+    "id": 10,
+    "size": 44,
+    "color": "grey",
+    "cost": 143,
+    "sale": false,
+    "amount": 10
+  },
+  [
+    {
+      "uid": 80,
+      "id": 11,
+      "size": 40,
+      "color": "white",
+      "cost": 120,
+      "sale": false,
+      "amount": 10
+    },
+    {
+      "uid": 81,
+      "id": 11,
+      "size": 41,
+      "color": "white",
+      "cost": 120,
+      "sale": false,
+      "amount": 10
+    },
+    {
+      "uid": 82,
+      "id": 11,
+      "size": 42,
+      "color": "white",
+      "cost": 120,
+      "sale": false,
+      "amount": 10
+    },
+    {
+      "uid": 83,
+      "id": 11,
+      "size": 43,
+      "color": "white",
+      "cost": 120,
+      "sale": false,
+      "amount": 10
+    },
+    {
+      "uid": 84,
+      "id": 11,
+      "size": 44,
+      "color": "white",
+      "cost": 120,
+      "sale": false,
+      "amount": 10
+    },
+
+    {
+      "uid": 85,
+      "id": 11,
+      "size": 40,
+      "color": "grey",
+      "cost": 132,
+      "sale": false,
+      "amount": 10
+    },
+    {
+      "uid": 86,
+      "id": 11,
+      "size": 41,
+      "color": "grey",
+      "cost": 132,
+      "sale": false,
+      "amount": 10
+    },
+    {
+      "uid": 87,
+      "id": 11,
+      "size": 42,
+      "color": "grey",
+      "cost": 132,
+      "sale": false,
+      "amount": 10
+    },
+    {
+      "uid": 88,
+      "id": 11,
+      "size": 43,
+      "color": "grey",
+      "cost": 132,
+      "sale": false,
+      "amount": 10
+    },
+    {
+      "uid": 89,
+      "id": 11,
+      "size": 44,
+      "color": "grey",
+      "cost": 132,
+      "sale": false,
+      "amount": 10
+    }
+  ]
+]
