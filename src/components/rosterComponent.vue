@@ -10,10 +10,11 @@ const props = defineProps({
   loginStatus: Object,
 });
 // Получение путей для изображений
-const getImageUrl = (id, color, imgnumber) => {
-  const imgURL = `/assets/${id}/${color}-${imgnumber}.jpg`;
-  return new URL(imgURL, import.meta.url).href;
+const getImageUrl = (id, color, imgnumber) => { 
+  const imgURL = `/src/assets/${id}/${color}-${imgnumber}.jpg`; 
+  return new URL(imgURL, import.meta.url).href; 
 };
+
 // Запрос на сервер
 const fetchData = async (place, link) => {
   try {

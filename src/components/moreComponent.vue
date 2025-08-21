@@ -37,10 +37,11 @@ const fetchData = async () => {
   }
 };
 
-const getImageUrl = (id, color, imgnumber) => {
-  const imgURL = `/assets/${id}/${color}-${imgnumber}.jpg`;
-  return new URL(imgURL, import.meta.url).href;
+const getImageUrl = (id, color, imgnumber) => { 
+  const imgURL = `/src/assets/${id}/${color}-${imgnumber}.jpg`; 
+  return new URL(imgURL, import.meta.url).href; 
 };
+
 
 onMounted(() => {
   if (props.bootId) {
